@@ -1,0 +1,88 @@
+ACR PNG2JSON Software License
+
+Copyright (c) Across Systems Corporation. All rights reserved.
+
+This license governs the use of ACR PNG2JSON ("the Software") distributed in
+binary form through https://github.com/acrossreport/acr-png2json.
+
+1. Grant of Use
+   You may download, install, use, and redistribute the Software free of
+   charge, for both personal and business purposes.
+
+2. Restrictions
+   You may not:
+   - reverse engineer, decompile, or disassemble the Software;
+   - modify the Software or create derivative works based on it;
+   - remove or alter copyright notices included in the Software.
+
+3. Source Code
+   The source code of the Software is not publicly available. This license
+   does not grant any right to the source code.
+
+4. Intellectual Property
+   All rights to the Software belong to Across Systems Corporation.
+   The intermediate drawing instruction architecture of ACR is patent
+   pending.
+
+5. Disclaimer of Warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+6. Limitation of Liability
+   IN NO EVENT SHALL ACROSS SYSTEMS CORPORATION BE LIABLE FOR ANY DAMAGES
+   ARISING FROM THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+7. Governing Law
+   This license is governed by the laws of Japan.
+
+8. Support
+   The Software is provided without support. Support may be provided
+   separately upon request, under terms agreed on a case-by-case basis.
+
+Contact: across.support@gmail.com
+
+--------------------------------------------------------------------------
+
+ACR PNG2JSON ソフトウェア使用許諾
+
+Copyright (c) Across Systems Corporation. All rights reserved.
+
+本許諾は、https://github.com/acrossreport/acr-png2json で配布する
+ACR PNG2JSON（以下「本ソフトウェア」）のバイナリの利用条件を定めるものです。
+
+1. 利用の許諾
+   本ソフトウェアは、個人・業務を問わず無償でダウンロード、インストール、
+   利用、再配布ができます。
+
+2. 禁止事項
+   - 本ソフトウェアのリバースエンジニアリング、逆コンパイル、逆アセンブル
+   - 本ソフトウェアの改変、および本ソフトウェアに基づく二次的著作物の作成
+   - 本ソフトウェアに含まれる著作権表示の削除・改変
+
+3. ソースコード
+   本ソフトウェアのソースコードは公開していません。本許諾はソースコードに
+   関する権利を与えるものではありません。
+
+4. 知的財産
+   本ソフトウェアに関する権利は Across Systems Corporation に帰属します。
+   ACR の中間描画命令アーキテクチャは特許出願中です。
+
+5. 無保証
+   本ソフトウェアは「現状のまま」提供され、商品性、特定目的への適合性、
+   権利非侵害を含め、明示・黙示を問わず一切の保証をしません。
+
+6. 責任の制限
+   本ソフトウェアの利用または利用不能により生じた損害について、
+   Across Systems Corporation は一切の責任を負いません。
+
+7. 準拠法
+   本許諾は日本法に準拠します。
+
+8. サポート
+   本ソフトウェアにはサポートは含まれません。サポートをご希望の場合は、
+   個別にご相談ください。
+
+お問い合わせ：across.support@gmail.com
+
+（英語版と日本語版に相違がある場合は、日本語版を優先します。）
